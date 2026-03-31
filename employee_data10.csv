@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Role,Salary,Location,Email,JoinDate
+E001,John Smith,IT,Software Engineer,75000,New York,john.smith@company.com,2021-03-15
+E002,Sarah Johnson,HR,HR Manager,68000,Chicago,sarah.johnson@company.com,2020-07-01
+E003,Michael Brown,Finance,Accountant,62000,Boston,michael.brown@company.com,2019-11-20
+E004,Emily Davis,Marketing,Marketing Executive,60000,San Francisco,emily.davis@company.com,2022-01-10
+E005,David Wilson,Sales,Sales Manager,72000,Seattle,david.wilson@company.com,2018-05-30
+E006,Anna Taylor,IT,System Administrator,70000,Austin,anna.taylor@company.com,2021-09-12
+E007,James Miller,Operations,Operations Lead,68000,Denver,james.miller@company.com,2017-04-18
+E008,Linda Anderson,Finance,Financial Analyst,65000,Atlanta,linda.anderson@company.com,2020-02-25
+E009,Robert Thomas,IT,DevOps Engineer,78000,San Jose,robert.thomas@company.com,2022-06-05
+E010,Patricia Moore,HR,Recruiter,55000,Phoenix,patricia.moore@company.com,2021-12-01

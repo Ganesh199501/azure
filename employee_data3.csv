@@ -1,0 +1,102 @@
+# ===== users_02.csv =====
+id,name,email,age,country
+1,Liam Wilson,liam.wilson1@example.com,32,UK
+2,Noah Anderson,noah.anderson2@example.com,27,USA
+3,Emma Johansson,emma.johansson3@example.com,41,Sweden
+4,Olivia Rossi,olivia.rossi4@example.com,35,Italy
+5,Ethan Müller,ethan.muller5@example.com,29,Germany
+6,Ava Dubois,ava.dubois6@example.com,24,France
+7,Lucas Pereira,lucas.pereira7@example.com,38,Brazil
+8,Mia Kowalski,mia.kowalski8@example.com,33,Poland
+9,Benjamin Novak,benjamin.novak9@example.com,46,Czech Republic
+10,Sofia Alvarez,sofia.alvarez10@example.com,28,Mexico
+11,Liam Wilson,liam.wilson11@example.com,32,UK
+12,Noah Anderson,noah.anderson12@example.com,27,USA
+13,Emma Johansson,emma.johansson13@example.com,41,Sweden
+14,Olivia Rossi,olivia.rossi14@example.com,35,Italy
+15,Ethan Müller,ethan.muller15@example.com,29,Germany
+16,Ava Dubois,ava.dubois16@example.com,24,France
+17,Lucas Pereira,lucas.pereira17@example.com,38,Brazil
+18,Mia Kowalski,mia.kowalski18@example.com,33,Poland
+19,Benjamin Novak,benjamin.novak19@example.com,46,Czech Republic
+20,Sofia Alvarez,sofia.alvarez20@example.com,28,Mexico
+21,Liam Wilson,liam.wilson21@example.com,32,UK
+22,Noah Anderson,noah.anderson22@example.com,27,USA
+23,Emma Johansson,emma.johansson23@example.com,41,Sweden
+24,Olivia Rossi,olivia.rossi24@example.com,35,Italy
+25,Ethan Müller,ethan.muller25@example.com,29,Germany
+26,Ava Dubois,ava.dubois26@example.com,24,France
+27,Lucas Pereira,lucas.pereira27@example.com,38,Brazil
+28,Mia Kowalski,mia.kowalski28@example.com,33,Poland
+29,Benjamin Novak,benjamin.novak29@example.com,46,Czech Republic
+30,Sofia Alvarez,sofia.alvarez30@example.com,28,Mexico
+31,Liam Wilson,liam.wilson31@example.com,32,UK
+32,Noah Anderson,noah.anderson32@example.com,27,USA
+33,Emma Johansson,emma.johansson33@example.com,41,Sweden
+34,Olivia Rossi,olivia.rossi34@example.com,35,Italy
+35,Ethan Müller,ethan.muller35@example.com,29,Germany
+36,Ava Dubois,ava.dubois36@example.com,24,France
+37,Lucas Pereira,lucas.pereira37@example.com,38,Brazil
+38,Mia Kowalski,mia.kowalski38@example.com,33,Poland
+39,Benjamin Novak,benjamin.novak39@example.com,46,Czech Republic
+40,Sofia Alvarez,sofia.alvarez40@example.com,28,Mexico
+41,Liam Wilson,liam.wilson41@example.com,32,UK
+42,Noah Anderson,noah.anderson42@example.com,27,USA
+43,Emma Johansson,emma.johansson43@example.com,41,Sweden
+44,Olivia Rossi,olivia.rossi44@example.com,35,Italy
+45,Ethan Müller,ethan.muller45@example.com,29,Germany
+46,Ava Dubois,ava.dubois46@example.com,24,France
+47,Lucas Pereira,lucas.pereira47@example.com,38,Brazil
+48,Mia Kowalski,mia.kowalski48@example.com,33,Poland
+49,Benjamin Novak,benjamin.novak49@example.com,46,Czech Republic
+50,Sofia Alvarez,sofia.alvarez50@example.com,28,Mexico
+51,Liam Wilson,liam.wilson51@example.com,32,UK
+52,Noah Anderson,noah.anderson52@example.com,27,USA
+53,Emma Johansson,emma.johansson53@example.com,41,Sweden
+54,Olivia Rossi,olivia.rossi54@example.com,35,Italy
+55,Ethan Müller,ethan.muller55@example.com,29,Germany
+56,Ava Dubois,ava.dubois56@example.com,24,France
+57,Lucas Pereira,lucas.pereira57@example.com,38,Brazil
+58,Mia Kowalski,mia.kowalski58@example.com,33,Poland
+59,Benjamin Novak,benjamin.novak59@example.com,46,Czech Republic
+60,Sofia Alvarez,sofia.alvarez60@example.com,28,Mexico
+61,Liam Wilson,liam.wilson61@example.com,32,UK
+62,Noah Anderson,noah.anderson62@example.com,27,USA
+63,Emma Johansson,emma.johansson63@example.com,41,Sweden
+64,Olivia Rossi,olivia.rossi64@example.com,35,Italy
+65,Ethan Müller,ethan.muller65@example.com,29,Germany
+66,Ava Dubois,ava.dubois66@example.com,24,France
+67,Lucas Pereira,lucas.pereira67@example.com,38,Brazil
+68,Mia Kowalski,mia.kowalski68@example.com,33,Poland
+69,Benjamin Novak,benjamin.novak69@example.com,46,Czech Republic
+70,Sofia Alvarez,sofia.alvarez70@example.com,28,Mexico
+71,Liam Wilson,liam.wilson71@example.com,32,UK
+72,Noah Anderson,noah.anderson72@example.com,27,USA
+73,Emma Johansson,emma.johansson73@example.com,41,Sweden
+74,Olivia Rossi,olivia.rossi74@example.com,35,Italy
+75,Ethan Müller,ethan.muller75@example.com,29,Germany
+76,Ava Dubois,ava.dubois76@example.com,24,France
+77,Lucas Pereira,lucas.pereira77@example.com,38,Brazil
+78,Mia Kowalski,mia.kowalski78@example.com,33,Poland
+79,Benjamin Novak,benjamin.novak79@example.com,46,Czech Republic
+80,Sofia Alvarez,sofia.alvarez80@example.com,28,Mexico
+81,Liam Wilson,liam.wilson81@example.com,32,UK
+82,Noah Anderson,noah.anderson82@example.com,27,USA
+83,Emma Johansson,emma.johansson83@example.com,41,Sweden
+84,Olivia Rossi,olivia.rossi84@example.com,35,Italy
+85,Ethan Müller,ethan.muller85@example.com,29,Germany
+86,Ava Dubois,ava.dubois86@example.com,24,France
+87,Lucas Pereira,lucas.pereira87@example.com,38,Brazil
+88,Mia Kowalski,mia.kowalski88@example.com,33,Poland
+89,Benjamin Novak,benjamin.novak89@example.com,46,Czech Republic
+90,Sofia Alvarez,sofia.alvarez90@example.com,28,Mexico
+91,Liam Wilson,liam.wilson91@example.com,32,UK
+92,Noah Anderson,noah.anderson92@example.com,27,USA
+93,Emma Johansson,emma.johansson93@example.com,41,Sweden
+94,Olivia Rossi,olivia.rossi94@example.com,35,Italy
+95,Ethan Müller,ethan.muller95@example.com,29,Germany
+96,Ava Dubois,ava.dubois96@example.com,24,France
+97,Lucas Pereira,lucas.pereira97@example.com,38,Brazil
+98,Mia Kowalski,mia.kowalski98@example.com,33,Poland
+99,Benjamin Novak,benjamin.novak99@example.com,46,Czech Republic
+100,Sofia Alvarez,sofia.alvarez100@example.com,28,Mexico

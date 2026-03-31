@@ -1,0 +1,23 @@
+# ===== users_09.csv =====
+id,name,email,age,country
+1,Rachel Green,rachel.green1@example.com,33,Canada
+2,Matthew Hall,matthew.hall2@example.com,39,Canada
+3,Sophie Martin,sophie.martin3@example.com,28,France
+4,Julien Moreau,julien.moreau4@example.com,41,France
+5,Pablo Ortega,pablo.ortega5@example.com,36,Spain
+6,Isabel Cruz,isabel.cruz6@example.com,25,Spain
+7,Leonardo Bianchi,leonardo.bianchi7@example.com,44,Italy
+8,Chiara Conti,chiara.conti8@example.com,31,Italy
+9,Andreas Papas,andreas.papas9@example.com,38,Greece
+10,Eleni Nikolaou,eleni.nikolaou10@example.com,29,Greece
+11,Rachel Green,rachel.green11@example.com,33,Canada
+12,Matthew Hall,matthew.hall12@example.com,39,Canada
+13,Sophie Martin,sophie.martin13@example.com,28,France
+14,Julien Moreau,julien.moreau14@example.com,41,France
+15,Pablo Ortega,pablo.ortega15@example.com,36,Spain
+16,Isabel Cruz,isabel.cruz16@example.com,25,Spain
+17,Leonardo Bianchi,leonardo.bianchi17@example.com,44,Italy
+18,Chiara Conti,chiara.conti18@example.com,31,Italy
+19,Andreas Papas,andreas.papas19@example.com,38,Greece
+20,Eleni Nikolaou,eleni.nikolaou20@example.com,29,Greece
+21–100 repeat same pattern with incremented ids and emails

@@ -1,0 +1,4 @@
+EmployeeID,Name,Department,Role,Salary,Location
+E001,John Smith,IT,Software Engineer,75000,New York
+E002,Sarah Johnson,HR,HR Manager,68000,Chicago
+E003,Michael Brown,Finance,Accountant,62000,Boston

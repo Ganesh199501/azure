@@ -1,0 +1,13 @@
+# ===== users_06.csv =====
+id,name,email,age,country
+1,Anna Svensson,anna.svensson1@example.com,28,Sweden
+2,Erik Lund,erik.lund2@example.com,35,Sweden
+3,Lars Pedersen,lars.pedersen3@example.com,42,Norway
+4,Ingrid Olsen,ingrid.olsen4@example.com,31,Norway
+5,Mikkel Hansen,mikkel.hansen5@example.com,27,Denmark
+6,Freja Nielsen,freja.nielsen6@example.com,24,Denmark
+7,Jussi Korhonen,jussi.korhonen7@example.com,46,Finland
+8,Aino Laine,aino.laine8@example.com,33,Finland
+9,Markus Weber,markus.weber9@example.com,39,Austria
+10,Lena Gruber,lena.gruber10@example.com,29,Austria
+11–100 repeat same pattern with incremented emails and ids

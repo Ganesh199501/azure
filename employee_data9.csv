@@ -1,0 +1,23 @@
+# ===== users_10.csv =====
+id,name,email,age,country
+1,Ahmed Mansour,ahmed.mansour1@example.com,40,Morocco
+2,Fatima Zahra,fatima.zahra2@example.com,27,Morocco
+3,Samuel Okoye,samuel.okoye3@example.com,35,Nigeria
+4,Chiamaka Nwoye,chiamaka.nwoye4@example.com,30,Nigeria
+5,Peter Mwangi,peter.mwangi5@example.com,42,Kenya
+6,Grace Wanjiku,grace.wanjiku6@example.com,26,Kenya
+7,Thabo Dlamini,thabo.dlamini7@example.com,38,South Africa
+8,Lerato Molefe,lerato.molefe8@example.com,31,South Africa
+9,Yaw Mensah,yaw.mensah9@example.com,44,Ghana
+10,Akosua Boateng,akosua.boateng10@example.com,29,Ghana
+11,Ahmed Mansour,ahmed.mansour11@example.com,40,Morocco
+12,Fatima Zahra,fatima.zahra12@example.com,27,Morocco
+13,Samuel Okoye,samuel.okoye13@example.com,35,Nigeria
+14,Chiamaka Nwoye,chiamaka.nwoye14@example.com,30,Nigeria
+15,Peter Mwangi,peter.mwangi15@example.com,42,Kenya
+16,Grace Wanjiku,grace.wanjiku16@example.com,26,Kenya
+17,Thabo Dlamini,thabo.dlamini17@example.com,38,South Africa
+18,Lerato Molefe,lerato.molefe18@example.com,31,South Africa
+19,Yaw Mensah,yaw.mensah19@example.com,44,Ghana
+20,Akosua Boateng,akosua.boateng20@example.com,29,Ghana
+21–100 repeat same pattern with incremented ids and emails
